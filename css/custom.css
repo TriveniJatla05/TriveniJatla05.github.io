@@ -1,0 +1,55 @@
+
+header {
+  padding: 156px 0 100px;
+}
+header h1{
+  text-align: center;
+}
+section {
+  padding: 150px 0;
+}
+ .bsu{
+   width:150px;
+ }
+
+#female{
+  color:white;
+  font-size:30px;
+}
+
+.content{
+  font-size: 20px;
+}
+.Github{
+  font-size: 30px;
+  
+}
+.Github,.resume a:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.emailid{
+  color:white;
+  text-align: center;
+}
+.resume{
+  text-align: center;
+  font-size: 35px;
+}
+.jumbotron{
+  text-align: center;
+}
+#myCarousel{
+  background-color: white;
+}
+
+.bg-primary{
+  background-image: url("../images/slider-1-2.jpg");
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
+  height: 780px !important;
+  background-size: cover;
+}
+
+@media only screen and (max-width: 800px){
+  img{display:none};
+}
